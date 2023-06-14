@@ -1,5 +1,4 @@
-# Banking-Management-System
-# ORACLE_APEX
+# Banking-Management-System-SQL
 First of all, whole code is written by me and nothing has been copy pasted fron anywhere.
 
 # Requirements:
